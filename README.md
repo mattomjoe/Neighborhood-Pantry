@@ -1,7 +1,5 @@
 # Neighborhood Pantry
 
-## Description
-
 Neighborhood Pantry is a MERN stack application. It is an app that allows users to post food they have that they do not want or that may be close to expiring in order to share with their friends or neighbors. Users can post to the pantry, then search through items in the pantry, and then select which items they want and add them to the cart.     
 
 ## Deployment
