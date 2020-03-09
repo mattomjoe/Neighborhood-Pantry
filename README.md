@@ -4,7 +4,7 @@ Neighborhood Pantry is a MERN stack application. It is an app that allows users 
 
 ## Deployment
 
-Deployed on Heroku (https://we-will-be-done-by-christmas.herokuapp.com "Neighborhood Pantry") 
+Deployed on Heroku (https://npantry.herokuapp.com/ "Neighborhood Pantry") 
 
 ## Technologies Used
 
